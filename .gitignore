@@ -4,8 +4,7 @@
 
 # Virtual environment
 venv/
-env/
-.env
+.venv/
 
 # Python files
 __pycache__/
@@ -56,5 +55,8 @@ htmlcov/
 # OS-specific files
 *.swp
 *~
+
+# Environment files
+*.env
 
 
