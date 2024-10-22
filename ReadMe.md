@@ -28,7 +28,7 @@ It utilizes these sources for analyzing and processing information about used ca
 - Airflow
 - Jupyter Notebook
 
-## used datasets
+## Used datasets
 
 - [Old Cars Selling Price Dataset by Ravi Barnawal](https://www.kaggle.com/datasets/ravibarnawal/old-cars-selling-price-dataset) - used as CSV file *(licence: **CC0: Public Domain**)*
 - [Old Cars Selling Price Dataset by Amit](https://www.kaggle.com/datasets/bhalothia192/old-cars-selling-price-dataset) - used as base of the data in BigQuery *(licence: **CC4.0: Attribution**)*
