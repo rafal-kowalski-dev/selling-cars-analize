@@ -1,0 +1,60 @@
+# System files
+.DS_Store
+.Thumbs.db
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Python files
+__pycache__/
+*.py[cod]
+*.so
+
+# VSCode files
+.vscode/
+*.code-workspace
+
+# Pyspark files
+metastore_db/
+derby.log
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+
+# Configuration files
+*.ini
+*.cfg
+
+# Database files
+*.db
+*.sqlite3
+
+# Data directories
+data/
+output/
+
+# Documentation files
+docs/_build/
+
+# Distribution files
+dist/
+build/
+*.egg-info/
+
+# Test files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+
+# OS-specific files
+*.swp
+*~
+
+
